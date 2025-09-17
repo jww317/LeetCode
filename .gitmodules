@@ -1,0 +1,3 @@
+[submodule "lc_1_twosum"]
+	path = lc_1_twosum
+	url = https://github.com/Sugar/lc_1_twosum.git
